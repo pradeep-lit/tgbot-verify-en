@@ -1,4 +1,4 @@
-# SheerID Auto-Verification Telegram Bot
+e# SheerID Auto-Verification Telegram Bot
 
 ![Stars](https://img.shields.io/github/stars/PastKing/tgbot-verify?style=social)
 ![Forks](https://img.shields.io/github/forks/PastKing/tgbot-verify?style=social)
@@ -81,8 +81,8 @@ A Python-based Telegram bot that automates SheerID student/teacher identity veri
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/PastKing/tgbot-verify.git
-cd tgbot-verify
+git clone https://github.com/pradeep-lit/tgbot-verify-en.git
+cd tgbot-verify-en
 ```
 
 ### 2. Install Dependencies
