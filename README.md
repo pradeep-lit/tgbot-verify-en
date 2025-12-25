@@ -1,13 +1,4 @@
-e# SheerID Auto-Verification Telegram Bot
 
-![Stars](https://img.shields.io/github/stars/PastKing/tgbot-verify?style=social)
-![Forks](https://img.shields.io/github/forks/PastKing/tgbot-verify?style=social)
-![Issues](https://img.shields.io/github/issues/PastKing/tgbot-verify)
-![License](https://img.shields.io/github/license/PastKing/tgbot-verify)
-
-> 🤖 Automated SheerID Student/Teacher Verification Telegram Bot
-> 
-> Based on [@auto_sheerid_bot](https://t.me/auto_sheerid_bot) GGBond's legacy code with improvements
 
 [中文文档](README.md) | English
 
